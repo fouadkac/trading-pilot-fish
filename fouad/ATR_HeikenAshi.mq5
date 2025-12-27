@@ -1,8 +1,4 @@
-//+------------------------------------------------------------------+
-//|                                               ATR_HeikenAshi.mq5 |
-//|                                          Copyright 2023, Geraked |
-//|                                       https://github.com/geraked |
-//+------------------------------------------------------------------+
+
 #property copyright   "Copyright 2023, Geraked"
 #property link        "https://github.com/geraked"
 #property version     "1.00"
