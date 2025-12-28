@@ -1,7 +1,4 @@
-//+------------------------------------------------------------------+
-//|                     UTBot EA                                    |
-//|   Uses UTBot indicator to open and close trades                |
-//+------------------------------------------------------------------+
+
 #include <Trade/Trade.mqh>
 
 // Create an instance of CTrade
@@ -148,3 +145,4 @@ void OnTick()
       trade.Buy(0.01);
    }
 }  
+
