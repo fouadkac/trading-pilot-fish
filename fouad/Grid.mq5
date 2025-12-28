@@ -1,14 +1,5 @@
-//+------------------------------------------------------------------+
-//|                                                         Grid.mq5 |
-//|                                          Copyright 2023, Geraked |
-//|                                       https://github.com/geraked |
-//+------------------------------------------------------------------+
-#property copyright "Copyright 2023, Geraked"
-#property link      "https://github.com/geraked"
-#property version   "1.00"
-#property indicator_chart_window
 
-#define PREFIX "ger_grid_"
+#property indicator_chart_window
 
 input int InpP1 = 30; // Points
 input color InpColor = clrCyan; // Color
