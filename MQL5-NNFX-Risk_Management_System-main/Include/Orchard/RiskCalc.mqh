@@ -1,12 +1,4 @@
-/*
-   RiskCalc.mqh
 
-   Copyright 2013-2022, Orchard Forex
-   https://www.orchardforex.com
-
-   Functions to support the Scale In tutorial
-
-*/
 
 /**=
  *
