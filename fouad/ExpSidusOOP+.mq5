@@ -1,11 +1,3 @@
-﻿//+------------------------------------------------------------------+
-//|                                                  ExpSidusOOP.mq5 |
-//|                                            Copyright 2018, NOVTS |
-//|                                                 http://novts.com |
-//+------------------------------------------------------------------+
-#property copyright "Copyright 2018, NOVTS"
-#property link      "http://novts.com"
-#property version   "1.00"
 
 #include "CheckTrade.mqh"
 #include "Trade.mqh"
@@ -127,3 +119,4 @@ void OnDeinit(const int reason)
   {   
  
   }    
+
