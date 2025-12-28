@@ -1,10 +1,4 @@
-//+------------------------------------------------------------------+
-//|                                                   SuperTrend.mq5 |
-//|                                           Copyright 2011, FxGeek |
-//|                                              http://www.mql5.com |
-//+------------------------------------------------------------------+
-#property copyright "Copyright 2011, FxGeek"
-#property link      " http://www.mql5.com"
+
 #property version   "1.00"
 #property indicator_chart_window
 #property indicator_buffers 9
