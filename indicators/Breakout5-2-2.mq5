@@ -1,8 +1,4 @@
 
-//| ---------------------------------------
-//| Breakout1.mq5
-//| Copyright 2018, getYourNet.ch
-//| ---------------------------------------
 
 #property version   "1.00"
 
@@ -623,4 +619,5 @@ void OnChartEvent(const int id, const long& lparam, const double& dparam, const 
       }
    }
 }
+
 
