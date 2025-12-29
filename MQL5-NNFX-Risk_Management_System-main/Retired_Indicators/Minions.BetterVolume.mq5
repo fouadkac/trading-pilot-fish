@@ -1,21 +1,3 @@
-//+-------------------------------------------------------------------------------------+
-//|                                                            Minions.BetterVolume.mq5 |
-//| (CC) Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License|
-//|                                                          http://www.MinionsLabs.com |
-//+-------------------------------------------------------------------------------------+
-
-
-//+------------------------------------------------------------------+
-//| Descriptors                                                      |
-//+------------------------------------------------------------------+
-#property copyright   "www.MinionsLabs.com"
-#property link        "http://www.MinionsLabs.com"
-#property version     "1.0"
-#property description "Minions in the quest for explaining Volume in a better way."
-#property description " "
-#property description "(CC) Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License"
-
-
 //+------------------------------------------------------------------+
 //| Indicator Settings                                               |
 //+------------------------------------------------------------------+
@@ -120,3 +102,4 @@ long SMAOnArray( const long &array[], int period, int position ) {
     return sum / period;
 }
 //+------------------------------------------------------------------+
+
