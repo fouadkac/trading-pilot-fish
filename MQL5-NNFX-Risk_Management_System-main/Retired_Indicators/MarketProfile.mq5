@@ -1,22 +1,3 @@
-//+------------------------------------------------------------------+
-//|                                                MarketProfile.mq5 |
-//|                             Copyright © 2010-2023, EarnForex.com |
-//|                                       https://www.earnforex.com/ |
-//+------------------------------------------------------------------+
-#property copyright "EarnForex.com (edited by TyphooN)"
-#property link      "https://www.earnforex.com/metatrader-indicators/MarketProfile/"
-#property version   "1.27"
-
-#property description "Displays the Market Profile indicator for intraday, daily, weekly, or monthly trading sessions."
-#property description "Daily - should be attached to M5-M30 timeframes. M30 is recommended."
-#property description "Weekly - should be attached to M30-H4 timeframes. H1 is recommended."
-#property description "Weeks start on Sunday."
-#property description "Monthly - should be attached to H1-D1 timeframes. H4 is recommended."
-#property description "Intraday - should be attached to M1-M15 timeframes. M5 is recommended.\r\n"
-#property description "Designed for major currency pairs, but should work also with exotic pairs, CFDs, or commodities."
-//+------------------------------------------------------------------+
-// Rectangle session - a rectangle's name should start with 'MPR' and must not contain an underscore ('_').
-//+------------------------------------------------------------------+
 #property indicator_chart_window
 // Two buffers are used for the Developing POC display because a single buffer wouldn't support an interrupting line.
 #property indicator_plots 2
